@@ -3,7 +3,7 @@ import winsound
 #winsound.PlaySound("x.y", winsound.SND_ASYNC)
 #main
 root = turtle.Screen()
-root.title("INTO ZA VRAINS")
+root.title("Pong")
 root.bgcolor("black")
 root.setup(width=800, height=600)
 root.tracer(0)
